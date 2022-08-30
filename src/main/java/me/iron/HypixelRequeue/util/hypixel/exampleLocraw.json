@@ -1,0 +1,17 @@
+[
+  "Locraw",
+
+  {
+    "server":"bedwarslobby#",
+    "gametype":"BEDWARS"
+  },
+
+  {
+    "server":"mini535F",
+    "gametype":"BEDWARS",
+    "mode":"BEDWARS_EIGHT_TWO",
+    "map":"Ashfire"
+  }
+]
+
+

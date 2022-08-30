@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "hypixel_requeue",
+    "name": "Hypixel Requeue",
+    "description": "A tool to requeue into games the easy way.",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "iron"
+    ],
+    "credits": "Remain anonymous, friend.",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
